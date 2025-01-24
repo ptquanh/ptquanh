@@ -59,15 +59,15 @@
 
 ## 🏃‍♂️ Github Streak
 
-![ptquanh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ptquanh&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D&short_numbers=true)
+![ptquanh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ptquanh&theme=radical&hide_border=false&date_format=j%2Fn%5B%2FY%5D&short_numbers=true&bg_color=0D1117)
 
 ## 🌟 Github Stats
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
   <br/>
-    <a href="#"><img alt="#" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptquanh&theme=radical&show_icons=true&hide_border=true&layout=compact" /></a>
-    <a href="#"><img alt="#" src="https://github-readme-stats.vercel.app/api?username=ptquanh&theme=radical&show_icons=true&hide_border=true&count_private=true" /></a>
+     <a href="#"><img alt="#" src="https://github-readme-stats.vercel.app/api?username=ptquanh&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+    <a href="#"><img alt="#" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptquanh&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 <h2 align="left"> <img src="https://komarev.com/ghpvc/?username=ptquanh&label=Profile%20views&color=0e75b6&style=flat&label=VIEWS" alt="ptquanh" /> </h2>
