@@ -59,7 +59,7 @@
 
 ## 🏃‍♂️ Github Streak
 
-![ptquanh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ptquanh&theme=radical&hide_border=false&date_format=j%2Fn%5B%2FY%5D&short_numbers=true&bg_color=0D1117)
+![ptquanh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ptquanh&theme=radical&hide_border=false&date_format=j%2Fn%5B%2FY%5D&short_numbers=true)
 
 ## 🌟 Github Stats
 
