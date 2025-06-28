@@ -46,9 +46,9 @@
   reflect experience or skill level.</br>
   <p align="center">
   <h3>Languages:</h3>
-  <a><img src="https://skillicons.dev/icons?i=cpp,c,java,html,css,js,python&theme=light" /></a>
+  <a><img src="https://skillicons.dev/icons?i=cpp,c,java,html,css,js,python,ts&theme=light" /></a>
   <h3>Tools and Others:</h3>
-  <a><img src="https://skillicons.dev/icons?i=git,github,express,nodejs,react,sass,bootstrap,postman,mongodb,mysql,pug,docker&theme=light" /></a>
+  <a><img src="https://skillicons.dev/icons?i=git,github,express,nodejs,react,sass,bootstrap,postman,mongodb,mysql,docker,postgresql,nestjs,nextjs,redis,bitbucket,cloudflare&theme=light" /></a>
 </p>
 </p>
 
