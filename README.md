@@ -27,7 +27,7 @@
 
 - 👨‍💻 All of my projects are available at **[here](https://github.com/ptquanh?tab=repositories)**
 
-- 📫 How to reach me **[vocsiquocanh@gmail.com](https://mail.google.com/mail/?view=cm&to=vocsiquocanh@gmail.com)**
+- 📫 How to reach me **[ptquanh.contact@gmail.com](https://mail.google.com/mail/?view=cm&to=ptquanh.contact@gmail.com)**
 
 ## 🌎 Connect with me:
 
